@@ -1,19 +1,19 @@
-# Hi there, I'm Ben! 👋
+# Hello Hello Hello! 👋
 
-I'm a **Product Manager** who loves building data-intensive products. Since I started my career in software engineering, I really enjoy bridging the gap between complex technology and great user design. I love working with all kinds of teams—from engineering to leadership—to ship impactful solutions (and have fun doing it!).
+I'm Ben Esh - PM by day, nostalgic ex-coder by night, [metal DJ every Thursday](https://www.kzradio.net/shows/esh)
 
 ---
 
 ### 🔭 What I'm Up To
-Right now, I'm diving deep into **AI agents**, exploring how they can help us build super-customized productivity tools.
+Over-optimizing my productivity/[music discovery stack](https://github.com/opbenesh/esh-tracker) using the magic of ~vibe~ doom coding
 
 ---
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
