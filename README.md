@@ -5,7 +5,7 @@ I'm Ben Esh - PM by day, nostalgic ex-coder by night, [metal DJ every Thursday](
 ---
 
 ### 🔭 What I'm Up To
-Over-optimizing my productivity/[music discovery stack](https://github.com/opbenesh/esh-tracker) using the magic of ~~vibe~~ doom coding
+Over-optimizing my productivity/[music discovery stack](https://github.com/opbenesh/esh-tracker) using the magic of ~~vibe~~ [doom coding](https://github.com/rberg27/doom-coding)
 
 ---
 
