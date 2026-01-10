@@ -1,11 +1,11 @@
 # Hi there, I'm Ben! 👋
 
-I’m a **Product Manager** with **10+ years of experience** building data-intensive products. With a foundation in software engineering, I excel at bridging deep technology with user-focused design. I thrive in high-stakes environments and enjoy working across engineering, GTM, and leadership teams to deliver impactful solutions.
+I'm a **Product Manager** who loves building data-intensive products. Since I started my career in software engineering, I really enjoy bridging the gap between complex technology and great user design. I love working with all kinds of teams—from engineering to leadership—to ship impactful solutions (and have fun doing it!).
 
 ---
 
-### 🔭 Current Focus
-I am currently exploring the potential of **AI agents** to build various customized productivity tools.
+### 🔭 What I'm Up To
+Right now, I'm diving deep into **AI agents**, exploring how they can help us build super-customized productivity tools.
 
 ---
 
@@ -17,7 +17,7 @@ I am currently exploring the potential of **AI agents** to build various customi
 
 ---
 
-### 📫 Connect with me
+### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-esh/)
 
 ---
