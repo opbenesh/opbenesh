@@ -22,8 +22,7 @@ Over-optimizing my productivity/[music discovery stack](https://github.com/opben
 
 ---
 
+
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opbenesh&show_icons=true&theme=minimal" alt="Ben's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opbenesh&layout=compact&theme=minimal" alt="Top Languages" />
-</div>
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
