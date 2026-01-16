@@ -1,6 +1,6 @@
 # Hello Hello Hello! 👋
 
-I'm Ben Esh - PM by day, nostalgic ex-coder by night, [metal DJ every Thursday](https://www.kzradio.net/shows/esh)
+I'm Ben Esh - PM by day, ex-coder by night, [metal DJ every Thursday](https://www.kzradio.net/shows/esh)
 
 ---
 
